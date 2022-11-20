@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @packy
 - 👀 I’m interested in Perl, shells, Mastodon.
 - 📫 How to reach me
-  - Mastodon: <a href="https://fosstodon.org/@packy" rel="me">@packy@fosstodon.org</a>
+  - Mastodon: <a rel="me" href="https://fosstodon.org/@packy">@packy@fosstodon.org</a>
   - Personal Blog: <a href="http://packy.dardan.com/" rel="me">packy.dardan.com</a>
   - Facebook: <a href="https://facebook.com/packy" rel="me">facebook.com/packy</a>
   - LinkedIn: <a href="https://www.linkedin.com/in/packy-anderson/" rel="me">linkedin.com/in/packy-anderson</a>
