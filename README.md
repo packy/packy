@@ -3,7 +3,7 @@
 - 📫 How to reach me
   - <a href="https://joinmastodon.org/">Mastodon</a>: <a rel="me" href="https://fosstodon.org/@packy">fosstodon.org/@packy</a>
   - <a href="https://joinfirefish.org/about/">Firefish Social</a>: <a rel="me" href="https://kalckey.com/@packy">kalckey.com/@packy</a>
-  - Personal Blog: <a href="http://packy.dardan.com/" rel="me">packy.dardan.com</a>
+  - Personal Blog: <a href="http://packy.dardan.com/" rel="me">packy.dardan.com</a> - <a href="http://packy.dardan.com/tag/perl-weekly-challenge/">Perl Weekly Challenge blog posts</a>
   - Facebook: <a href="https://facebook.com/packy" rel="me">facebook.com/packy</a>
   - LinkedIn: <a href="https://www.linkedin.com/in/packy-anderson/" rel="me">linkedin.com/in/packy-anderson</a>
   - Instagram: <a href="https://www.instagram.com/PackyAnderson/" rel="me">instagram.com/PackyAnderson</a>
